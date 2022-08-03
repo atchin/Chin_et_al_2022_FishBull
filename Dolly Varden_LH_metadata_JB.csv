@@ -10,4 +10,4 @@ number_of_migrations,"number of marine migrations, i.e., where Sr:Ca >3 mmol/mol
 skipped_migrations,"number of full years in freshwater after one or more marine migrations, i.e., where Sr:Ca <3 mmol/mol through an annuli mark; ; NE = not examined"
 winters_at_sea,"number of winters fish overwintered at sea, i.e., where Sr:Ca >3 mmol/mol through an annual mark; NE = not examined"
 maternal_anadromy,"whether maternal anadromy detected, i.e., Sr:Ca concentrations were elevated at the core; Y = yes, N = no, NE = not examined"
-notes,
+notes,notes on individual specimens
