@@ -1,0 +1,14 @@
+fish_ID,Unique ID associated with individual specimens
+district,"The commercial salmon fishing district within Bristol Bay, AK where Dolly Varden were captured: https://www.adfg.alaska.gov/index.cfm?adfg=commercialbyareabristolbay.salmon#management"
+site_info,Local sites within the fishing district
+capture_date,date when fish were caught (MM/DD/YYYY)
+fork_length_mm,measured length from snout to fork of the tail in millimeters
+mass_g,"weighed mass, in grams"
+sex,"M = male, F = female"
+total_annuli,total dark growth annuli counted from cross-sectioned otoliths from core to edge; NE = not examined
+age_at_first_migration,total number of annuli preceding the first spike of Sr:Ca concentrations >3 mmol/mol; NE = not examined
+number_of_migrations,"number of marine migrations, i.e., where Sr:Ca >3 mmol/mol proceeding an annual mark. Includes the summer of capture; NE = not examined"
+skipped_migrations,"number of full years in freshwater after one or more marine migrations, i.e., where Sr:Ca <3 mmol/mol through an annuli mark; ; NE = not examined"
+winters_at_sea,"number of winters fish overwintered at sea, i.e., where Sr:Ca >3 mmol/mol through an annual mark; NE = not examined"
+maternal_anadromy,"whether maternal anadromy detected, i.e., Sr:Ca concentrations were elevated at the core; Y = yes, N = no, NE = not examined"
+notes,
